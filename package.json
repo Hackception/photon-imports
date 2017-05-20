@@ -1,0 +1,28 @@
+{
+  "name": "photon-imports",
+  "description": "Photon.sh HTML Imports",
+  "main": "photon.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackception/photon-imports.git"
+  },
+  "authors": [
+    "Michael Stramel <m.stramel89@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hackception/photon-imports/issues"
+  },
+  "homepage": "https://github.com/Hackception/photon-imports#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-wrap-layout": "^0.3.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "photon-imports",
+  "homepage": "https://github.com/Hackception/photon-imports",
+  "authors": [
+    "Michael Stramel <m.stramel89@gmail.com>"
+  ],
+  "description": "Photon.sh HTML Imports",
+  "main": "photon.html",
+  "keywords": [
+    "photon"
+  ],
+  "dependencies": {
+    "photon-js": "photonsh/photon-js#^0.1.3",
+    "photon-themes": "photonsh/themes#^0.1.3"
+  },
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
